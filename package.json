@@ -4,7 +4,7 @@
 "displayName": "MyBox",
 "description": "Forked from Deadcow's MyBox. Added some extra stuff.",
 
-"unity": "2018.3",
+"unity": "2021.2",
 "dependencies": {
     "com.unity.ugui": "1.0.0"
 },
