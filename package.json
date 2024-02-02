@@ -1,8 +1,8 @@
 {
-"name": "com.domybest.mybox",
+"name": "com.tezemi.mybox",
 "version": "1.8.0",
 "displayName": "MyBox",
-"description": "MyBox is a set of attributes, tools and extensions for Unity",
+"description": "Forked from Deadcow's MyBox. Added some extra stuff.",
 
 "unity": "2018.3",
 "dependencies": {
@@ -11,7 +11,7 @@
 "documentationUrl": "https://github.com/Deadcows/MyBox/wiki",
 
 "keywords": ["attributes", "extensions", "editor tools"],
-"author": { "name" : "Andrew Rumak",
-   "email" : "andrew@deadcow.ru",
-   "url" : "http://andrew@deadcow.ru/" }
+"author": { "name" : "Tezemi",
+   "email" : "tezemi.mail@gmail.com",
+   "url" : "https://github.com/tezemi" }
 }
